@@ -8,7 +8,7 @@ This project applies Natural Language Processing (NLP) and sentiment analysis to
 ## Features
 - Sentiment analysis using the VADER tool.
 - Data cleaning and preprocessing of tweets.
-- Demographic analysis based on tweet metadata.
+- Demographic analysis based on simulated tweet metadata.
 - Visualization of sentiment distributions.
 - Geographic mapping of sentiment data.
 
